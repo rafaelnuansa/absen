@@ -1,0 +1,59 @@
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+.fs-11 {
+    font-size: 11px;
+}
+
+.webcam-capture, .webcam-capture video {
+    display: inline-block;
+    width: 100%!important;
+    height: auto!important;
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+#qris-video-container video {
+    display: inline-block;
+
+    width: 100%!important;
+    height: auto!important;
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+    overflow: hidden;
+}
+#capturedImageContainer {
+    border-radius: 30px;
+
+}
+
+#capturedImageContainer img{
+    max-width: 100%;
+    border-radius: 30px;
+}
+
+
+.sos-button {
+    font-size: 2em!important;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%; /* Membuat tombol menjadi bulat */
+    width: 100px; /* Atur lebar dan tinggi tombol agar tetap menjadi lingkaran */
+    height: 100px;
+  }
+
+  .abs-button {
+    font-size: 2em!important;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%; /* Membuat tombol menjadi bulat */
+    width: 100px; /* Atur lebar dan tinggi tombol agar tetap menjadi lingkaran */
+    height: 100px;
+  }
